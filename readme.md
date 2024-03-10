@@ -14,7 +14,13 @@
 - React Native
 - Navitagion: Stack
 - Expo
- 
+
+## Worklfow
+
+- Tela de listagem de produtos
+- tela de detalhes do produto
+- Tela de Carrinho
+
  
 <div align="center">
   <a href="#">
